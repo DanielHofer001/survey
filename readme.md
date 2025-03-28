@@ -4,7 +4,7 @@
 
 Erstelle eine Webseite, welche es dem User ermöglicht, eine Umfrage durchzuführen.
 
-Zweck: Informationen von Besuchern zu gelangen und speichern.
+Der Zweck besteht darin, an Informationen von Besuchern zu gelangen und diese dauerhaft speichern.
 
 Neben den eigentlichen Sinn von Umfragen, etwas über die Qualität des Produktes zu erfahren bzw. die Meinung zu bestimmten Ereignissen zu erfragen, werden sie verwendet, um die Persönlichkeit vom Nutzer zu erfahren.
 
