@@ -25,14 +25,14 @@ $sql = "USE survey_db;";
 $conn->query($sql) or die($conn->error);
 
 
-function _getDataFromTable($table, $filter=1): mysqli_result{
+function getDataFromTable($table, $filter=1): mysqli_result{
     global $conn;
     $result = $conn->query( "SELECT * FROM $table where $filter;") or die($conn->error);
     echo "(number of $table sets: " . $result->num_rows . ")<br/>";
     return $result;
 }
 
-function _createAnswer($answer): bool {
+function createAnswer($answer): bool {
     global $conn;
 
     // Prepare and execute the SQL query

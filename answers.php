@@ -1,7 +1,7 @@
 <?php 
 include 'db.php';
 
-$result = _getDataFromTable("answers");
+$result = getDataFromTable("answers");
 
 
 echo "<h2> Answers </h2>";

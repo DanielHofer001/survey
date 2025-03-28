@@ -1,7 +1,7 @@
 <?php 
 include 'db.php';
 
-$result = _getDataFromTable("survey_set");
+$result = getDataFromTable("survey_set");
 
 
 echo "<h2> Survey sets </h2>";
