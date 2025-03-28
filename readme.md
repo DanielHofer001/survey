@@ -21,3 +21,8 @@ Neben den eigentlichen Sinn von Umfragen, etwas über die Qualität des Produkte
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Datenbank**: SQL Datenbank zur Speicherung der Umfragen und Antwortdaten
+
+## Setup
+- XAMPP PHP + MySQL
+
+[![IMAGE SHOULD BE HERE](preview.PNG)](https://www.youtube.com/watch?v=19Lq-fSeSYM)
